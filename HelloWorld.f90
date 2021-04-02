@@ -1,3 +1,3 @@
 Program Hello
-Print *, "Hello World!"
+write(*,*) "Hello World!"
 End Program Hello
